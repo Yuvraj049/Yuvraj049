@@ -12,28 +12,39 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Yuvraj_Chaudhari-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-chaudhari-8a23a8280) 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%20%40Yuvraj)](https://twitter.com/yuvraj_4903)
 [![Instagram Badge](https://img.shields.io/badge/-@Yuvraj-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/yuvraj._.49) 
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/Yuvraj_003.svg)](https://codeforces.com/profile/Yuvraj_003)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/yvc3094/)
 
-## Top Languages:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj049&show_icons=true&theme=transparent&layout=donut)
 
 ## Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=47A248)](#)
-[![FireBase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&labelColor=black&logo=Firebase&logoColor=FFCA28)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&labelColor=black&logo=PostgreSQL&logoColor=4169E1)](#)
+[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![React-Router](https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&labelColor=black&logo=React-Router&logoColor=CA4245)](#)
+
+[![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Express](https://img.shields.io/badge/Express-white.svg?style=for-the-badge&labelColor=black&logo=Express&logoColor=white)](#)
+
+[![FireBase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&labelColor=black&logo=Firebase&logoColor=FFCA28)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=47A248)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&labelColor=black&logo=PostgreSQL&logoColor=4169E1)](#)
+
+[![EJS](https://img.shields.io/badge/EJS-B4CA65.svg?style=for-the-badge&logo=EJS&logoColor=black&labelColor=black&logoColor=B4CA65)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white&labelColor=black&logoColor=06B6D4)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=7952B3&labelColor=black)](#)
+
+
 
 ## Resume
 :paperclip: [My Resume/CV](https://github.com/Yuvraj049/Yuvraj049/blob/main/resumes/Yuvraj%20Chaudhari.pdf)
 
-## Github Stats
+<!-- ## Top Languages:
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Yuvraj049&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj049&show_icons=true&theme=transparent&layout=donut) -->
+
+<!-- ## Github Stats
+
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Yuvraj049&count_private=true&theme=tokyonight&hide=contribs,prs) -->
 
 
