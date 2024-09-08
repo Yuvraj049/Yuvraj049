@@ -9,7 +9,7 @@
 ## :mailbox: Reach me out!
 
 [![Mail Badge](https://img.shields.io/badge/-Yuvraj-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yvc3094@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Yuvraj_Chaudhari-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-chaudhari-8a23a8280) 
+[![Linkedin Badge](https://img.shields.io/badge/-Yuvraj_Chaudhari-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-yuvrajchaudhari-/) 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%20%40Yuvraj)](https://twitter.com/yuvraj_4903)
 [![Instagram Badge](https://img.shields.io/badge/-@Yuvraj-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/yuvraj._.49) 
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/Yuvraj_003.svg)](https://codeforces.com/profile/Yuvraj_003)
@@ -26,14 +26,16 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Express](https://img.shields.io/badge/Express-white.svg?style=for-the-badge&labelColor=black&logo=Express&logoColor=white)](#)
 
-[![FireBase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&labelColor=black&logo=Firebase&logoColor=FFCA28)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=47A248)](#)
+[![FireBase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&labelColor=black&logo=Firebase&logoColor=FFCA28)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&labelColor=black&logo=PostgreSQL&logoColor=4169E1)](#)
 
-[![EJS](https://img.shields.io/badge/EJS-B4CA65.svg?style=for-the-badge&logo=EJS&logoColor=black&labelColor=black&logoColor=B4CA65)](#)
+[![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](#)
+[![EJS](https://img.shields.io/badge/EJS-B4CA65.svg?style=for-the-badge&logo=EJS&labelColor=black&logoColor=B4CA65)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=FF6C37&labelColor=black)](#)
+
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white&labelColor=black&logoColor=06B6D4)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=7952B3&labelColor=black)](#)
-
 
 
 ## Resume
