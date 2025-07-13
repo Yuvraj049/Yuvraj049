@@ -44,7 +44,7 @@
 
 
 ## Resume
-:paperclip: [My Resume/CV](https://github.com/Yuvraj049/Yuvraj049/blob/main/resumes/Yuvraj%20Chaudhari.pdf)
+:paperclip: [Resume/CV](https://drive.google.com/file/d/1RnyVNgTztHj9KuXlodfCby0vi7PrV9ez/view?usp=sharing)
 
 <!-- ## Top Languages:
 
