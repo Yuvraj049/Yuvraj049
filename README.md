@@ -37,6 +37,11 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white&labelColor=black&logoColor=06B6D4)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=7952B3&labelColor=black)](#)
 
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=CC342D&labelColor=black)](#)
+[![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-D30001.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=D30001&labelColor=black)](#)
+[![Sidekiq](https://img.shields.io/badge/Sidekiq-B1003E.svg?style=for-the-badge&logo=Sidekiq&logoColor=B1003E&labelColor=black)](#)
+
+
 
 ## Resume
 :paperclip: [My Resume/CV](https://github.com/Yuvraj049/Yuvraj049/blob/main/resumes/Yuvraj%20Chaudhari.pdf)
