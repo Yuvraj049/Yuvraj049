@@ -3,7 +3,7 @@
 ### 🚀 Check out my Latest Site [IRCTC](https://travel-booking-c3dc1.web.app/) 
 
 
-[![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvraj049&theme=transparent)](https://github.com/Yuvraj049/)
+[![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xYuvrajx&theme=transparent)](https://github.com/xYuvrajx/)
 
 
 ## :mailbox: Reach me out!
@@ -48,10 +48,10 @@
 
 <!-- ## Top Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj049&show_icons=true&theme=transparent&layout=donut) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xYuvrajx&show_icons=true&theme=transparent&layout=donut) -->
 
 <!-- ## Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Yuvraj049&count_private=true&theme=tokyonight&hide=contribs,prs) -->
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=xYuvrajx&count_private=true&theme=tokyonight&hide=contribs,prs) -->
 
 
